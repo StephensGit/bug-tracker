@@ -4,10 +4,10 @@ import AppReducer from './AppReducer';
 // Initial State
 const initialState = {
     bugs: [
-        { id: 1, bug: 'Clean room', device: 'IOS', type: 'Elixir'  },
-        { id: 2, bug: 'Banking', device: 'IOS', type: 'Elixir' },
-        { id: 3, bug: 'Meal prep', device: 'IOS', type: 'Elixir'  },
-        { id: 4, bug: 'Code', device: 'IOS', type: 'Elixir'  }
+        { id: 1, bug: 'Text Overlapping on images', device: 'IOS', type: 'Elixir'  },
+        { id: 2, bug: 'Text Overlapping on images', device: 'IOS', type: 'Elixir' },
+        { id: 3, bug: 'Text Overlapping on images', device: 'IOS', type: 'Elixir'  },
+        { id: 4, bug: 'Text Overlapping on images', device: 'IOS', type: 'Elixir'  }
     ] 
 }
 
